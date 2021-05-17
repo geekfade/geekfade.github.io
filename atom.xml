@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hacking Look</title>
+  
+  <subtitle>感谢来访</subtitle>
+  <link href="https://geekfade.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://geekfade.github.io/"/>
+  <updated>2021-05-13T00:35:57.813Z</updated>
+  <id>https://geekfade.github.io/</id>
+  
+  <author>
+    <name>Hacking</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>前端笔记</title>
+    <link href="https://geekfade.github.io/2021/05/01/web-note/"/>
+    <id>https://geekfade.github.io/2021/05/01/web-note/</id>
+    <published>2021-05-01T01:25:00.000Z</published>
+    <updated>2021-05-13T00:35:57.813Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;HTML&quot;&gt;&lt;a href=&quot;#HTML&quot; class=&quot;headerlink&quot; title=&quot;HTML&quot;&gt;&lt;/a&gt;HTML&lt;/h1&gt;&lt;h2 id=&quot;1-Meta的用法和结构&quot;&gt;&lt;a href=&quot;#1-Meta的用法和结构&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="前端" scheme="https://geekfade.github.io/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+    <category term="标签 表单" scheme="https://geekfade.github.io/tags/%E6%A0%87%E7%AD%BE-%E8%A1%A8%E5%8D%95/"/>
+    
+  </entry>
+  
+</feed>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>前端笔记</title>
+      <link href="2021/05/01/web-note/"/>
+      <url>2021/05/01/web-note/</url>
+      
+        <content type="html"><![CDATA[<h1 id="HTML"><a href="#HTML" class="headerlink" title="HTML"></a>HTML</h1><h2 id="1-Meta的用法和结构"><a href="#1-Meta的用法和结构" class="headerlink" title="1.Meta的用法和结构"></a>1.Meta的用法和结构</h2><ol><li>&lt; meta&gt;标记在&lt; head&gt;部分</li><li><meta charset="" http-equiv="" name="" content=""/>这样是一些字符写在一起</li><li>&lt; meta charser=”UTF-8”/&gt;定义字符编码集</li><li>&lt; meta name=”keywords” content=””/&gt;为搜索引擎关键字</li><li>&lt; meta name=”description” content=”  “/&gt;定义对于网页的基本描述 </li><li>&lt; meta name=”revised” content=”  “/&gt;定义网页的最新版本</li><li>&lt; meta http-equiv=”refresh” content=”5（<font color=#008000>注释，秒</font>）”[url=”资源路径”]/&gt;</li><li>不写url表示每隔5秒钟刷新一次页面否者跳到资源网址<h3 id="2-HTML-5-标记"><a href="#2-HTML-5-标记" class="headerlink" title="2.HTML 5 标记"></a>2.HTML 5 标记</h3></li></ol><p><strong>注意</strong> <br><br>除了a标签以外的所有内联都不能嵌套块级标签<br><br>块级标签可以嵌套任意标签,但是p不能嵌套块级标签,因为嵌套关系如果P标签里面是块级就会把P标签分割成<br><br>两个独立的P标签,那个块级元素就在中间</p><h4 id="2-1-文本标签"><a href="#2-1-文本标签" class="headerlink" title="2.1 文本标签"></a>2.1 文本标签</h4><ul><li>&lt; pre &gt;&lt; pre /&gt;标记保留了文本的所有换行与空</li><li>&lt; hr &gt;&lt; /hr &gt;用法与&lt; br &gt;相同，只是在中间加了一条水平线</li><li>&lt; cite&gt;&lt; /cite&gt;标记用来定义作品的标题，从视觉效果上表现为斜体形式</li><li>&lt; ins&gt;&lt; /ins&gt;表示插入的文本</li><li>&lt; dle&gt;&lt; /dle&gt;表示删除的文本</li><li>&lt; sub&gt;&lt; /sub&gt;定义下标文本    &lt; sup&gt;&lt; /sup&gt;定义上标文本<br></li><li>*例子：**如上标文本可用来表示方程的平方等，下标用做方程的下标<br>&lt; ruby &gt;&lt; /ruby &gt;标记需要定义被旁注的文本<br><br>&lt; rt &gt;&lt; /rt&gt; 定义文本的注音或解释 （用做直接出现在文字上方）<br><br>&lt; rp&gt;&lt; /rp&gt;出现在文字右方（用做不被浏览器支持的时候）<br><br>文本可编辑属性contenteditable<br>该属性可以让在页面不能够被编辑的内容变成像表单一样的可编辑状态<br>需要在对应的标签上加上contenteditable=true的属性</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 前端 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 标签 表单 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
